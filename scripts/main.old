@@ -1,0 +1,2 @@
+var myHeading = document.querySelector('h1');//Primeto cargamos la función document.querySelector() en la variable
+myHeading.innerHTML = 'Hello World!';//Luego con la propiedad innerHTML cambiamos el valor del elemento h1

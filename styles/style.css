@@ -1,0 +1,35 @@
+html {
+  background-color: #00539f;
+  font-size: 10px;
+  font-family: placeholder;
+}
+body {
+  width: 600px;/*Ancho del body*/
+  margin: 0 auto;/*Eliminando espacio superior por defecto*/
+  background-color: #ff9500;
+  padding: 0 20px 20px 20px;/*Espacio circundante entre el contenido(texto) y el borde (del body en este caso)*/
+  border: 5px solid black;
+  }
+h1 {
+  font-size:60px;
+  text-align:center;
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black;
+}
+img {  
+  display: block;/*Mostrando como block para poder centrar horizontal*/
+  margin: auto;
+}
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  /*letter-spacing: 1px; espacio entre letras*/
+}	
+.opS {
+  text-align:justify;
+  text-justify: inter-word;
+  }
+	
+	
